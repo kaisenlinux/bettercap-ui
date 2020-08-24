@@ -1,0 +1,5 @@
+fa-* usr/share/bettercap/ui
+*.js usr/share/bettercap/ui
+*.css usr/share/bettercap/ui
+assets usr/share/bettercap/ui
+3rdpartylicenses.txt favicon.ico index.html usr/share/bettercap/ui

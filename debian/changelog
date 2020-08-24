@@ -1,0 +1,5 @@
+bettercap-ui (1.3.0+really1.3.0-0kaisen1) kaisen-packages; urgency=medium
+
+  * First packaging for Kaisen Linux
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Mon, 24 Aug 2020 19:53:56 +0200

@@ -1,0 +1,6 @@
+source-is-missing assets/fontawesome/js/*
+source-is-missing assets/openlayers/*
+source-is-missing main.*
+source-is-missing polyfills.*
+source-is-missing runtime.*
+source-is-missing scripts.*

@@ -1,0 +1,15 @@
+Source: bettercap-ui
+Section: javascript
+Priority: optional
+Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
+Build-Depends: debhelper
+Standards-Version: 4.5.0
+Homepage: https://github.com/bettercap/ui
+Vcs-Git: https://gitlab.com/kaisenlinux/packages/bettercap-ui.git
+Vcs-Browser: https://gitlab.com/kaisenlinux/packages/bettercap-ui
+
+Package: bettercap-ui
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, bettercap, bettercap-caplets
+Description: bettercap's web UI
+ This package contains the bettercap's web UI.
